@@ -2483,10 +2483,6 @@ body[dir="rtl"] .checkbox:checked,
   left: -0.25rem;
 }
 
-.right-4 {
-  right: 1rem;
-}
-
 .z-50 {
   z-index: 50;
 }
@@ -2555,12 +2551,12 @@ body[dir="rtl"] .checkbox:checked,
   margin-top: 2.5rem;
 }
 
-.mt-3 {
-  margin-top: 0.75rem;
-}
-
 .mb-2 {
   margin-bottom: 0.5rem;
+}
+
+.mt-3 {
+  margin-top: 0.75rem;
 }
 
 .inline {
@@ -2629,10 +2625,6 @@ body[dir="rtl"] .checkbox:checked,
 
 .grid-cols-1 {
   grid-template-columns: repeat(1, minmax(0, 1fr));
-}
-
-.grid-cols-auto-fit {
-  grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
 }
 
 .grid-rows-1 {
