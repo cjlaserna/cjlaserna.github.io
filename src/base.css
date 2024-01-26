@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "alagard"; /* credit: https://www.dafont.com/alagard.font */
+	src: url("/public/assets/fonts/alagard.woff") format("woff");
+}
+@font-face {
+	font-family: "pixel"; /* credit: https://www.dafont.com/pixel-operator.font */
+	src: url("/public/assets/fonts/PixelOperator.ttf") format("truetype");
+}
+@font-face {
+	font-family: "DIEDIEDIE";
+	src: url("/public/assets/fonts/DIEDIEDIE.TTF") format("truetype");
+}
+body {
+	font-size: calc(18px + 0.390625vw);
+	background-color: #000;
+	margin: 0px;
+	min-height: 100vh;
+}
+
+a {
+	text-decoration: none;
+	transition: all 1s ease;
+}
+
+hr {
+	margin: 1.5em;
+}
+.holy-grail-grid {
+	display: grid;
+	grid-template-areas:
+		"header"
+		"main-content"
+		"left-sidebar"
+		"right-sidebar"
+		"footer";
+	margin: 0 auto;
+	transition: 0.5s all ease;
+	line-height: 1.2em;
+}
+.main-content {
+	min-height: 25vh;
+}
+.header {
+	grid-area: header;
+	padding: 0.5em;
+	text-align: center;
+}
+
+.main-content {
+	grid-area: main-content;
+	margin: 0.7em;
+}
+
+.floating {
+	border-radius: 0.3em;
+	padding: 0.83em;
+	margin-bottom: 0.83em;
+}
+
+.left-sidebar {
+	grid-area: left-sidebar;
+}
+
+.right-sidebar {
+	grid-area: right-sidebar;
+}
+
+.footer {
+	grid-area: footer;
+	text-align: center;
+}
+
+@media (min-width: 768px) {
+	.holy-grail-grid {
+		grid-template-columns: 1fr;
+		grid-template-areas:
+			"header header"
+			"main-content main-content"
+			"left-sidebar right-sidebar"
+			"footer footer";
+	}
+}
+
+@media (min-width: 1024px) {
+	.holy-grail-grid {
+		grid-template-columns: repeat(4, 1fr);
+		grid-template-areas:
+			"header header header header"
+			"left-sidebar main-content main-content right-sidebar"
+			"footer footer footer footer";
+		max-width: 95%;
+	}
+}
+
+@media (max-width: 1026px) {
+	.left-sidebar {
+		display: none;
+	}
+
+	.right-sidebar {
+		display: none;
+	}
+}
+
+.alagard {
+	font-family: "alagard";
+}
+.pixel {
+	font-family: "pixel";
+}
+.die {
+	font-family: "DIEDIEDIE";
+}

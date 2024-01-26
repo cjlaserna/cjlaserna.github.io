@@ -1,0 +1,165 @@
+/*my credits! please dont remove, but you may the change the img to ur liking*/
+.dont-remove {
+	position: fixed;
+	z-index: 99;
+	bottom: 0;
+	margin-bottom: 5px;
+	left: 0;
+	margin-left: 5px;
+}
+
+.figure-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/* overflow: hidden; */
+	perspective: 800px;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	transition: 1s cubic-bezier(0.59, -0.43, 0.17, 1.16);
+}
+
+figure {
+	width: 100%;
+	border-radius: 8px;
+	position: relative;
+	background: #e1e1d7;
+	border: 1px solid #e1e1d7;
+	transition: 0.3s ease-in-out;
+}
+figure .img {
+	width: 100%;
+	height: 200px;
+	border-radius: 8px 8px 0 0;
+	background-size: 350px auto;
+	background-repeat: no-repeat;
+}
+figure .img:after {
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 150px;
+	border-radius: 0 0 8px 8px;
+	background: linear-gradient(transparent, #e1e1d7 44%);
+}
+figure figcaption {
+	margin-top: 5px;
+	height: 80px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	position: relative;
+	overflow: visible;
+	background: #fff;
+	border-radius: 0 0 8px 8px;
+	border-bottom: 1px solid #e1e1d7;
+}
+figure figcaption span {
+	width: 100%;
+}
+figure figcaption span:nth-child(1) {
+	position: absolute;
+	font-family: "Alagard";
+	font-size: 30px;
+	top: -40px;
+	opacity: 0;
+	left: 10;
+	color: #000;
+	text-shadow: 0 0 15px #ffcfe9;
+}
+figure figcaption span:nth-child(2) {
+	filter: url("#outline");
+	font-family: "pixel";
+	font-size: 32px;
+	overflow: visible;
+	position: absolute;
+	top: -42px;
+	left: 1px;
+	white-space: nowrap;
+	color: #3e3d3a;
+	z-index: 10px;
+	transform: rotate(-2deg);
+	text-shadow: 0 0 15px #ffcfe9;
+	transition: top 0.3s ease-in-out;
+}
+
+figure figcaption span:nth-child(3) {
+	font-family: "pixel";
+	opacity: 0;
+	padding: 0 20px;
+	height: 20px;
+	overflow: hidden;
+	cursor: text;
+}
+figure button {
+	position: absolute;
+	bottom: -10px;
+	width: 130px;
+	left: calc(50% - 65px);
+	border: 0;
+	height: 35px;
+	border-radius: 4px;
+	cursor: pointer;
+	pointer-events: auto;
+	transition: 0.3s ease-in-out;
+	overflow: hidden;
+	z-index: 20;
+}
+figure button:focus {
+	outline: 0;
+}
+figure:hover {
+	transition: 0.3s ease-in-out;
+	/* transform: rotateX(-2deg); */
+}
+figure:hover button {
+	bottom: -13px;
+	transition: 0.3s ease-in-out;
+}
+figure:hover span:nth-child(2) {
+	transition: top 0.3s ease-in-out;
+}
+figure.open .img {
+	height: 0;
+}
+figure.open figcaption {
+	height: 280px;
+	border-radius: 8px;
+}
+figure.open figcaption span:nth-child(1) {
+	top: -25px;
+	opacity: 1;
+}
+figure.open figcaption span:nth-child(2) {
+	top: 0px;
+}
+figure.open figcaption span:nth-child(3) {
+	height: 100%;
+	opacity: 1;
+	padding: 50px 20px 40px 20px;
+}
+figure.open button:before {
+	opacity: 0;
+	left: 100%;
+}
+figure.open button:after {
+	opacity: 1;
+	left: 47px;
+}
+figure.open button:hover figcaption span:nth-child(2) {
+	top: -15px;
+	transition: top 0.3s ease-in-out;
+}
+figure svg {
+	position: absolute;
+	bottom: 0;
+	width: 350px;
+}
+
+figure > * {
+	transition: 1s cubic-bezier(0.59, -0.43, 0.17, 1.16) !important;
+}
