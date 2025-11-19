@@ -1,19 +1,20 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
-date: "2020-03-16T05:35:07.322Z"
+title: About Me
+excerpt: "I'm an incredibly eager learner and collaborator, passionate about all
+  things tech and games "
+coverImage: /assets/ezgif-1b79eded7d7d6f39.gif
+date: 2025-11-18T18:40:00.000Z
 author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
-ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  name: Catherine Laserna
 ---
+![](/assets/badges/she_her.png) ![](/assets/badges/Pacific_Time.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Hello! My name is Catherine. I'm currently a senior at California State University, Fresno majoring in **Cognitive Science**. I'm also pursuing a **Media Arts** minor.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+**Programming Languages**
 
-## Lorem Ipsum
+![](/assets/badges/Python.png) ![](/assets/badges/Node.js.png) ![](/assets/badges/Unity.png) ![](/assets/badges/Typescript.png) ![](/assets/badges/JavaScript.png) ![](/assets/badges/HTML5.png) ![](/assets/badges/Git.png) ![](/assets/badges/C%2B%2B.png) ![](/assets/badges/C_Sharp.png)
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+**Personal Hobbies**
+
+![](/assets/badges/PC_Gamer.png) ![](/assets/badges/jo4fU6U.png) ![](/assets/badges/qeWy3Ik.png) ![](/assets/badges/WKH2C9p.png) ![](/assets/badges/gVI5OAO.png)
