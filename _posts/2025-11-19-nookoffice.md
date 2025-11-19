@@ -5,29 +5,31 @@ excerpt: NookOffice was an Animal Crossing themed productivity site and widget.
   users 2023.
 coverImage: /assets/timerprev.png
 date: 2025-11-19T12:29:00.000Z
+tags:
+  - Projects
+  - ArtDesign
 ogImage:
   url: /assets/timerprev.png
 ---
-NookOffice hosts hourly rotating Animal Crossing tracks for relaxing, studying, or working complete with timers & to-do lists.  
-  
+<p style="text-align: right">NookOffice hosts hourly rotating Animal Crossing tracks for relaxing, studying, or working complete with timers &amp; to-do lists.</p>
+
 [![Site Image](https://github.com/cjlaserna/nookoffice/raw/main/public/timerprev.png)](https://www.figma.com/file/TIMSI0wSvnRDxgad2BNZv8/Nook-Office?node-id=0%3A1&t=xeY0HWG6hw3KkrcP-1)
 
-### **Current Features**
+**NookOffice** is a relaxing productivity web app inspired by Animal Crossing: New Horizons. It hosts hourly rotating ACNH music, making it perfect for studying, working, or just creating a peaceful atmosphere. I built it using **Astro**, with styling handled in **CSS** and a bit of **JavaScript** for interactivity.
 
-*   Hourly rotating ACNH music
+The app includes a set of simple, cozy tools:
+
+*   **Hourly Animal Crossing music rotation**
     
-*   Layering rain sounds
+*   **Optional rain sound layering**
     
-*   Locally Saved To-do List
+*   **Locally saved to-do list** so tasks persist between sessions
     
-*   5, 10, 15 Minute Timers
+*   **5, 10, and 15-minute timers** for quick focus sessions
     
 
-## **Sources**
-
-*   Saino (Artist)
-    
-*   Most of the other GIFs are from the official Animal Crossing Movie / Anime
-    
+Most of the GIFs come from the official _Animal Crossing_ movie/anime, and additional artwork is credited to **Saino**. The project is deployed on **Netlify**, and I use the **YouTube Embed API** to manage music playback.
 
 Visit this page on [Github](https://github.com/cjlaserna/nookoffice).
+
+_\*Also view it on_ [_Figma_](https://www.figma.com/file/TIMSI0wSvnRDxgad2BNZv8/Nook-Office?node-id=0%3A1&t=xeY0HWG6hw3KkrcP-1)
