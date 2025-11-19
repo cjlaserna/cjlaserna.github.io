@@ -8,9 +8,9 @@ tags:
 ---
 This page covers resources and materials for people new to programming or design. It encompasses resources I reference frequently, ones that have affected my career, and my own personally crafted resources!
 
-# **Personally Crafted Resources**
+## **Personally Crafted Resources**
 
-## **Programming**
+### **Programming**
 
 *   [AInnovators](https://drive.google.com/drive/folders/1ArQgH947lTAM3_52_YSV236v1wy5cB46?usp=sharing) \- This is an **AI-course** I ran in-person that taught the very basics of **Python**, Programming, and a little bit of **NLP** (Natural Language Processing). It has slides, homework, and resources.
     
@@ -25,7 +25,7 @@ This page covers resources and materials for people new to programming or design
 *   [Dice 2023 Attendees Master List and Emails](https://docs.google.com/spreadsheets/d/1SKgnw2SzFV6oJvtwM0dEGeGpmyP9H2dx9v7Nd6Ez5Pw/edit?usp=sharing) - A list of contacts from people who attended Dice 2023 that I created w/ automation. Could be useful for **networking**.
     
 
-## **Miscellaneous**
+### **Miscellaneous**
 
 *   [College Planning Resources](https://drive.google.com/drive/folders/1tFV0zrjhLUJVjrRfB6a25DyTGoL53Hg9?usp=sharing) \- This is a list of resources I made for my friends my senior year of high-school that's available to current students as well.
     
