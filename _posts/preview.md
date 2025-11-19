@@ -23,7 +23,7 @@ In my presentation, I chose to focus on ARPG Gacha games. Specifically, I chose 
 
 ### ARPG Gacha Community
 
-Genshin Impact and Honkai: Star Rail, both crafted by Mihoyo, stand out as popular adventure role-playing gacha games. In this genre, players spend in-game currency for random virtual items, reminiscent of the real-life “gachapons”. Gachapons are those little spherical capsules you can exchange for a quarter at the entrance of a Walmart or in the middle of the mall. They had random toys inside like sticky rubber hands or small car figurines. The video game genre works the same, except you receive virtual rewards.
+Genshin Impact and Honkai: Star Rail, both crafted by Mihoyo, stand out as popular adventure role-playing gacha games. In this genre, players spend in-game currency for random virtual items, reminiscent of the real-life “gachapons”. Gachapons are those little spherical capsules you can exchange for a quarter at the entrance of a Walmart or in the middle of the mall. They had random toys inside like sticky rubber hands or small car figurines. The video game genre works the same, except you receive virtual rewards
 
 ![](https://cdn-images-1.medium.com/max/800/1*JdYCZ6daT8FFrlH7vrDznA.jpeg)
 
