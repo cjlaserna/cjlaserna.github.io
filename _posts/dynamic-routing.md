@@ -19,4 +19,4 @@ Hello! My name is **Catherine Laserna**. I'm currently a senior at California St
     PC Gaming • Anime • Gemstones • Crafts • Old-Web • Pixel-Art.
     
 
-For my other social media, visit my [external links page](https://cjlaserna.vercel.app/ext)! Interested in reaching out? You can shoot me an e-mail me at [clasernaj@gmail.com](mailto:clasernaj@gmail.com).
+For my other social media, visit my [external links page](https://cjlaserna.vercel.app/ext)! Interested in reaching out? You can **shoot me an e-mail me at** [**clasernaj@gmail.com**](mailto:clasernaj@gmail.com)**.**
