@@ -1,7 +1,6 @@
 ---
-title: "Exploring player perspectives: My Mobalytics externship experience"
-excerpt: "This article focuses on the culminating endeavor of the Mobalytics
-  program: the final project and its presentation."
+title: Exploring Player Perspectives
+excerpt: My Mobalytics externship experience
 coverImage: /assets/1_5eZSHtNZA5Okwru0yR7Jew.webp
 date: 2025-11-19T05:35:00.000Z
 tags:
