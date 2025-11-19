@@ -26,22 +26,10 @@ content:
         fields:
           - { name: url, label: URL, type: image }
       - { name: body, label: Body, type: rich-text }
-      - label: "Tags"
-        name: "tags"
-        type: object
-        fields:
-          - label: "Micro Dev Log"
-            name: "devlog"
-            type: boolean
-          - label: "Projects"
-            name: "projects"
-            type: boolean
-          - label: "Art and Design"
-            name: "artdesign"
-            type: boolean
-          - label: "Resources"
-            name: "resources"
-            type: boolean
-          - label: "External Links"
-            name: "links"
-            type: boolean
+      - name: tags
+        label: Tags
+        type: select
+        options:
+          creatable: true
+          multiple: true
+          values: [ Devlog, Projects, ArtDesign, Resources, ExternalLinks]
