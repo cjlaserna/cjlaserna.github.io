@@ -1,21 +1,41 @@
 import { CMS_NAME } from "@/lib/constants";
+import Image from "next/image";
+import profile_picture from "../../public/assets/media/pfp.png";
+import question_mark from "../../public/assets/graphics/question.gif";
 
 export function Intro() {
-  return (
-    <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
-      <h1 className="text-5xl md:text-8xl font-bold tracking-tighter leading-tight md:pr-8">
-        Blog.
-      </h1>
-      <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{" "}
-        <a
-          href="https://nextjs.org/"
-          className="underline hover:text-blue-600 duration-200 transition-colors"
-        >
-          Next.js
-        </a>{" "}
-        and {CMS_NAME}.
-      </h4>
-    </section>
-  );
+	return (
+		<section className="left">
+			<div className="box image-box">
+				<Image
+					src={profile_picture}
+					alt="Profile Picture"
+					width={300}
+					height={300}
+					objectFit="cover"
+				/>
+			</div>
+
+			<div className="box links-box">
+				<a href="#">Home</a>
+				<a href="#">Micro Dev Log</a>
+				<a href="#">Projects</a>
+				<a href="#">Art & Design</a>
+				<a href="#">Resources</a>
+				<a href="#">Ext Links</a>
+			</div>
+
+			<div className="box text-box">
+				<div className="heading-wrap">
+					<h2 className="title">Welcome to my site</h2>
+				</div>
+				<p>
+					Obsessed with anything video games and tech, I like to create
+					intuitive and engaging user experiences for users! With a passion for
+					UI/UX design, I focus on creating seamless, immersive, and
+					player-centric interfaces.
+				</p>
+			</div>
+		</section>
+	);
 }
