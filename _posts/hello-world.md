@@ -1,7 +1,6 @@
 ---
 title: Stardew Valley Case Study
-excerpt: With over 500 hours spent playing this game, read some of my gripes and
-  view how I improved the save creation and tutorial scenes in-game.
+excerpt: How to create intuitive UX in video games
 coverImage: /assets/stardew.png
 date: 2025-11-19T05:35:00.000Z
 tags:
