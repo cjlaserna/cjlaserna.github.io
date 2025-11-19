@@ -1,6 +1,6 @@
 ---
 title: Teyvat Travel Notes
-excerpt: Teyvat Travel Notes is a Genshin Impact themed to-do list for Genshin players!
+excerpt: A Genshin Impact themed to-do list for Genshin players
 coverImage: /assets/teyvatnotes.gif
 date: 2025-11-19T12:33:00.000Z
 tags:
