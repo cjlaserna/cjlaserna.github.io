@@ -1,8 +1,6 @@
 ---
 title: NookOffice
-excerpt: NookOffice was an Animal Crossing themed productivity site and widget.
-  It had hourly-rotating music, to-do lists, and timers! It had peaked at 5k
-  users 2023.
+excerpt: Animal Crossing themed productivity site and widget
 coverImage: /assets/timerprev.png
 date: 2025-11-19T12:29:00.000Z
 tags:
