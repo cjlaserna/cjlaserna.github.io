@@ -1,9 +1,6 @@
-import Avatar from "@/app/_components/avatar";
-import CoverImage from "@/app/_components/cover-image";
 import Link from "next/link";
 import DateFormatter from "./date-formatter";
 import Image from "next/image";
-import markdownStyles from "./markdown-styles.module.css";
 import { PostHeader } from "./post-header";
 import { PostBody } from "./post-body";
 

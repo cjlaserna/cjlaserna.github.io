@@ -1,14 +1,11 @@
 import Image from "next/image";
 import { getAllPosts } from "../../lib/api";
-import Container from "../_components/container";
 import { PostBody } from "../_components/post-body";
 import { PostHeader } from "../_components/post-header";
-import { Intro } from "@/app/_components/intro";
 import Link from "next/link";
 import { Post } from "@/interfaces/post";
 import DateFormatter from "../_components/date-formatter";
 import markdownToHtml from "../../lib/markdownToHtml";
-import devlogBanner from "../../public/assets/graphics/devlogh.gif";
 
 export default async function DevLog() {
 	// Filter, sort, and take first 5 posts

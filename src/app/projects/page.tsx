@@ -1,5 +1,3 @@
-import Container from "@/app/_components/container";
-import { Intro } from "@/app/_components/intro";
 import { getAllPosts } from "../../lib/api";
 import Link from "next/link";
 

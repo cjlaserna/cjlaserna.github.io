@@ -1,14 +1,8 @@
-import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getAllPosts, getPostBySlug } from "../../../lib/api";
-import { CMS_NAME } from "../../../lib/constants";
 import markdownToHtml from "../../../lib/markdownToHtml";
-import Alert from "../../_components/alert";
-import Container from "../../_components/container";
-import Header from "../../_components/header";
 import { PostBody } from "../../_components/post-body";
 import { PostHeader } from "../../_components/post-header";
-import { Intro } from "@/app/_components/intro";
 import Link from "next/link";
 import Image from "next/image";
 import DateFormatter from "@/app/_components/date-formatter";
