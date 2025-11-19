@@ -2,6 +2,8 @@ import Footer from "@/app/_components/footer";
 import { CMS_NAME, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import type { Metadata } from "next";
 import "./globals.css";
+import Container from "./_components/container";
+import { Intro } from "./_components/intro";
 
 export const metadata: Metadata = {
 	title: `Next.js Blog Example with ${CMS_NAME}`,
@@ -53,7 +55,14 @@ export default function RootLayout({
 			</head>
 			<body>
 				<div className="lines" />
-				<div className="min-h-screen">{children}</div>
+				<div className="min-h-screen">
+					<main className="main">
+						<Container>
+							<Intro />
+							{children}
+						</Container>
+					</main>
+				</div>
 				<div className="noise" />
 			</body>
 		</html>

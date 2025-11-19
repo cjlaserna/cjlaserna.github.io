@@ -8,62 +8,57 @@ import Container from "../../_components/container";
 import Header from "../../_components/header";
 import { PostBody } from "../../_components/post-body";
 import { PostHeader } from "../../_components/post-header";
+import { Intro } from "@/app/_components/intro";
+import Link from "next/link";
+import Image from "next/image";
+import DateFormatter from "@/app/_components/date-formatter";
 
 export default async function Post({ params }: Params) {
-  const post = getPostBySlug(params.slug);
+	const post = getPostBySlug(params.slug);
 
-  if (!post) {
-    return notFound();
-  }
+	if (!post) {
+		return notFound();
+	}
 
-  const content = await markdownToHtml(post.content || "");
+	const content = await markdownToHtml(post.content || "");
 
-  return (
-    <main>
-      <Alert preview={post.preview} />
-      <Container>
-        <Header />
-        <article className="mb-32">
-          <PostHeader
-            title={post.title}
-            coverImage={post.coverImage}
-            date={post.date}
-            author={post.author}
-          />
-          <PostBody content={content} />
-        </article>
-      </Container>
-    </main>
-  );
+	return (
+		<article className="right box">
+			<PostHeader title={post.title} />
+			<PostBody content={content} />
+			<span className="inner-date">
+				Updated <DateFormatter dateString={post.date} />
+			</span>
+			<div className="banner-box">
+				<Link
+					as={`/posts/${post.slug}`}
+					href="/posts/[slug]"
+					aria-label={post.title}
+				>
+					<Image
+						src={post.coverImage}
+						alt={post.title}
+						className="object-cover banner-img"
+						fill
+						objectFit="cover"
+						objectPosition="center"
+					/>
+				</Link>
+			</div>
+		</article>
+	);
 }
 
 type Params = {
-  params: {
-    slug: string;
-  };
+	params: {
+		slug: string;
+	};
 };
 
-export function generateMetadata({ params }: Params): Metadata {
-  const post = getPostBySlug(params.slug);
-
-  if (!post) {
-    return notFound();
-  }
-
-  const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`;
-
-  return {
-    openGraph: {
-      title,
-      images: [post.ogImage.url],
-    },
-  };
-}
-
 export async function generateStaticParams() {
-  const posts = getAllPosts();
+	const posts = getAllPosts();
 
-  return posts.map((post) => ({
-    slug: post.slug,
-  }));
+	return posts.map((post) => ({
+		slug: post.slug,
+	}));
 }

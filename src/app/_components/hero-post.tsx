@@ -5,6 +5,8 @@ import Link from "next/link";
 import DateFormatter from "./date-formatter";
 import Image from "next/image";
 import markdownStyles from "./markdown-styles.module.css";
+import { PostHeader } from "./post-header";
+import { PostBody } from "./post-body";
 
 type Props = {
 	title: string;
@@ -16,54 +18,26 @@ type Props = {
 
 export function HeroPost({ title, coverImage, date, content, slug }: Props) {
 	return (
-		<div className="right">
-			<div className="box">
-				<div className="inner-box">
-					<h2>{title}</h2>
-					<div
-						className={markdownStyles["markdown"]}
-						dangerouslySetInnerHTML={{ __html: content }}
-					/>
-				</div>
-				<div className="banner-box">
-					<Link as={`/posts/${slug}`} href="/posts/[slug]" aria-label={title}>
-						<Image
-							src={coverImage}
-							alt={title}
-							className="object-cover banner-img"
-							fill
-							objectFit="cover"
-							objectPosition="center"
-						/>
-					</Link>
-				</div>
+		<article className="right">
+			<div className="inner-box">
+				<PostHeader title={title} />
+				<PostBody content={content} />
+				<span className="inner-date">
+					Updated <DateFormatter dateString={date} />
+				</span>
 			</div>
-		</div>
+			<div className="banner-box">
+				<Link as={`/posts/${slug}`} href="/posts/[slug]" aria-label={title}>
+					<Image
+						src={coverImage}
+						alt={title}
+						className="object-cover banner-img"
+						fill
+						objectFit="cover"
+						objectPosition="center"
+					/>
+				</Link>
+			</div>
+		</article>
 	);
-}
-
-{
-	/* <div className="mb-8 md:mb-16">
-        <CoverImage title={title} src={coverImage} slug={slug} />
-      </div>
-      <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
-        <div>
-          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
-            <Link
-              as={`/posts/${slug}`}
-              href="/posts/[slug]"
-              className="hover:underline"
-            >
-              {title}
-            </Link>
-          </h3>
-          <div className="mb-4 md:mb-0 text-lg">
-            <DateFormatter dateString={date} />
-          </div>
-        </div>
-        <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-          <Avatar name={author.name} picture={author.picture} />
-        </div>
-      </div> */
 }

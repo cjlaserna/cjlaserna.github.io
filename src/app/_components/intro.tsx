@@ -17,12 +17,12 @@ export function Intro() {
 			</div>
 
 			<div className="box links-box">
-				<a href="#">Home</a>
-				<a href="#">Micro Dev Log</a>
-				<a href="#">Projects</a>
-				<a href="#">Art & Design</a>
-				<a href="#">Resources</a>
-				<a href="#">Ext Links</a>
+				<a href="/">Home</a>
+				<a href="/devlog">Micro Dev Log</a>
+				<a href="/projects">Projects</a>
+				<a href="/artdesign">Art & Design</a>
+				<a href="/resources">Resources</a>
+				<a href="/ext">Ext Links</a>
 			</div>
 
 			<div className="box text-box">
