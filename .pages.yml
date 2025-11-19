@@ -12,6 +12,25 @@ content:
     fields:
       - { name: title, label: Title, type: string, required: true }
       - { name: excerpt, label: Excerpt, type: string }
+      - label: "Tags"
+        name: "tags"
+        type: object
+        fields:
+          - label: "Micro Dev Log"
+            name: "devlog"
+            type: boolean
+          - label: "Projects"
+            name: "projects"
+            type: boolean
+          - label: "Art and Design"
+            name: "artdesign"
+            type: boolean
+          - label: "Resources"
+            name: "resources"
+            type: boolean
+          - label: "External Links"
+            name: "links"
+            type: boolean
       - { name: coverImage, label: Cover image, type: image }
       - { name: date, label: Date, type: date, options: { time: true, format: "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'" } }
       - name: author
