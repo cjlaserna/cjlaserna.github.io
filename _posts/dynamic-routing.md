@@ -6,6 +6,12 @@ coverImage: /assets/ezgif-1b79eded7d7d6f39.gif
 date: 2025-11-18T18:40:00.000Z
 author:
   name: Catherine Laserna
+tags:
+  devlog: false
+  projects: false
+  artdesign: false
+  resources: false
+  links: false
 ---
 ![](/assets/badges/she_her.png) ![](/assets/badges/Pacific_Time.png)
 
