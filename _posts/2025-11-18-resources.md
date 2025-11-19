@@ -6,7 +6,7 @@ date: 2025-11-19T11:40:00.000Z
 tags:
   - Resources
 ---
-This page covers resources and materials for people new to programming or design. It encompasses resources I reference frequently, ones that have affected my career, and my own personally crafted resources!
+This page covers resources and materials for people new to programming or design. It encompasses resources I reference frequently that I created myself!
 
 ## **Personally Crafted Resources**
 
@@ -35,9 +35,9 @@ This page covers resources and materials for people new to programming or design
     
 *   [Twitch Overlay Figma Base Set](https://www.figma.com/design/k1NMm67lloZb8TcAagy1j4/Twitch-Streaming-Starter?m=auto&t=SMli9hPGx7enSszn-6) - The bases I used to create Twitch overlays, could be useful to create your own.
     
-*   [Visual Novel UI Pack](https://cjlaserna.itch.io/love-luster-ui-pack) \- Free Pink/Blue themed UI-Pack for visual novels.
+*   [Visual Novel UI Pack](https://cjlaserna.itch.io/love-luster-ui-pack) - Free Pink/Blue themed UI-Pack for visual novels.
     
-*   [Mini Sci-Fi UI Pack](https://cjlaserna.itch.io/exe) \- Free Black/White robot/sci-fi themed UI-Pack for games or sites.
+*   [Mini Sci-Fi UI Pack](https://cjlaserna.itch.io/exe) - Free Black/White robot/sci-fi themed UI-Pack for games or sites.
     
 
 ### **Miscellaneous**
