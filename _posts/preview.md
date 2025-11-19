@@ -7,8 +7,6 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 coverImage: /assets/blog/preview/cover.jpg
 date: 2020-03-16T05:35:00.000Z
 tags:
-  - ArtDesign
-  - Resources
   - ExternalLinks
   - Devlog
 ogImage:
