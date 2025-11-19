@@ -1,6 +1,6 @@
 ---
 title: NookOffice
-excerpt: Animal Crossing themed productivity site and widget
+excerpt: An Animal Crossing themed productivity site.
 coverImage: /assets/timerprev.png
 date: 2025-11-19T12:29:00.000Z
 tags:
