@@ -45,3 +45,5 @@ This page covers resources and materials for people new to programming or design
 *   [College Planning Resources](https://drive.google.com/drive/folders/1tFV0zrjhLUJVjrRfB6a25DyTGoL53Hg9?usp=sharing) - This is a list of resources I made for my friends my senior year of high-school that's available to current students as well.
     
 *   [DMCA Free Twitch Music](https://open.spotify.com/playlist/6jzemSePz0m1n9MWk0ST05?si=mFpdRFHrTLOzq9zXk_VMEw&pi=rvDN8dtjQAaGG) - A playlist I made for Twitch streams.
+    
+*   [Mentorship and Networking Guide](https://medium.com/@clasernaj/how-to-reach-out-to-potential-mentors-and-foster-that-relationship-fc378be3432d?postPublishedType=initial) - This was a post originally posted for [Fresno State’s Career Development Center](https://careercenter.fresnostate.edu/blog/2024/11/25/how-to-reach-out-to-potential-mentors-and-foster-that-relationship/) while I worked there.
