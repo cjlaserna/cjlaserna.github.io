@@ -22,6 +22,8 @@ This page covers resources and materials for people new to programming or design
     
 *   [OOP Curriculum Notes and Resources](https://drive.google.com/drive/folders/1BxFnCR08vrrLIQx3FtoFhoNciVMlPxwy?usp=sharing) \- I taught OOP (object-oriented programming) to students at one point and these are the notes and resources I noted down.
     
+*   [Dice 2023 Attendees Master List and Emails](https://docs.google.com/spreadsheets/d/1SKgnw2SzFV6oJvtwM0dEGeGpmyP9H2dx9v7Nd6Ez5Pw/edit?usp=sharing) - A list of contacts from people who attended Dice 2023.
+    
 
 ## **Miscellaneous**
 
