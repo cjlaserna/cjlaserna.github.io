@@ -1,6 +1,6 @@
 ---
-title: Stardew Valley Case Study
-excerpt: How to create intuitive UX in video games
+title: How to create intuitive UX in video games
+excerpt: A Stardew Valley Case Study
 coverImage: /assets/stardew.png
 date: 2025-11-19T05:35:00.000Z
 tags:
