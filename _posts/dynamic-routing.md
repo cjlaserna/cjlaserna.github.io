@@ -7,6 +7,8 @@ date: 2025-11-18T18:40:00.000Z
 tags:
   - Devlog
   - AboutMe
+ogImage:
+  url: /assets/ezgif-1b79eded7d7d6f39.gif
 ---
 Hello! My name is **Catherine Laserna**. I'm currently a senior at California State University, Fresno majoring in **Cognitive Science**. I'm also pursuing a **Media Arts** minor!
 
