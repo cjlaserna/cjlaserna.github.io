@@ -23,16 +23,14 @@ export function HeroPost({ title, coverImage, date, content, slug }: Props) {
 				</span>
 			</div>
 			<div className="banner-box">
-				<Link as={`/posts/${slug}`} href="/posts/[slug]" aria-label={title}>
-					<Image
-						src={coverImage}
-						alt={title}
-						className="object-cover banner-img"
-						fill
-						objectFit="cover"
-						objectPosition="center"
-					/>
-				</Link>
+				<Image
+					src={coverImage}
+					alt={title}
+					className="object-cover banner-img"
+					fill
+					objectFit="cover"
+					objectPosition="center"
+				/>
 			</div>
 		</article>
 	);
