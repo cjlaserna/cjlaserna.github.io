@@ -14,4 +14,7 @@ Hello! My name is **Catherine Laserna**. I'm currently a senior at California St
     Python • Node.JS • Unity • Typescript • Javascript • HTML5 [•](https://calendar.google.com/) Git [•](https://calendar.google.com/) C++ • C#.
     
 *   Aside from programming, my some of my **personal hobbies** are:  
-    PC Gaming [•](https://calendar.google.com/) Anime [•](https://calendar.google.com/) Gemstones [•](https://calendar.google.com/) Crafts [•](https://calendar.google.com/) Old-Web [•](https://calendar.google.com/) Pixel-Art.
+    PC Gaming • Anime • Gemstones • Crafts • Old-Web • Pixel-Art.
+    
+
+For my other social media, visit my [external links page](https://cjlaserna.vercel.app/ext)! Interested in reaching out? You can shoot me an e-mail me at [clasernaj@gmail.com](mailto:clasernaj@gmail.com).
