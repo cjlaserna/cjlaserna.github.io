@@ -13,7 +13,7 @@ ogImage:
 Hello! My name is **Catherine Laserna**. I'm currently a senior at California State University, Fresno majoring in **Cognitive Science**. I'm also pursuing a **Media Arts** minor!
 
 *   My **technical programming skills** include:  
-    Python • Node.JS • Unity • Typescript • Javascript • HTML5 • Git • C++ • C# • Supabase (Firebase Alternative) • Most CMS Systems (Wordpress, DatoCMS, Strapi, etc.)
+    Python • Node.JS • Unity • Typescript • Javascript • HTML5 • Git • C++ • C# • Supabase (Firebase Alternative) • CMS Systems (Wordpress, DatoCMS, Strapi, etc.)
     
 *   My **technical design skills** include:  
     Illustrator • Photoshop • Figma.
