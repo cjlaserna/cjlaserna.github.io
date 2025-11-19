@@ -35,9 +35,13 @@ This page covers resources and materials for people new to programming or design
     
 *   [Twitch Overlay Figma Base Set](https://www.figma.com/design/k1NMm67lloZb8TcAagy1j4/Twitch-Streaming-Starter?m=auto&t=SMli9hPGx7enSszn-6) - The bases I used to create Twitch overlays, could be useful to create your own.
     
+*   [Visual Novel UI Pack](https://cjlaserna.itch.io/love-luster-ui-pack) \- Free Pink/Blue themed UI-Pack for visual novels.
+    
+*   [Mini Sci-Fi UI Pack](https://cjlaserna.itch.io/exe) \- Free Black/White robot/sci-fi themed UI-Pack for games or sites.
+    
 
 ### **Miscellaneous**
 
 *   [College Planning Resources](https://drive.google.com/drive/folders/1tFV0zrjhLUJVjrRfB6a25DyTGoL53Hg9?usp=sharing) - This is a list of resources I made for my friends my senior year of high-school that's available to current students as well.
     
-*   [DMCA Free Twitch Music](https://open.spotify.com/playlist/6jzemSePz0m1n9MWk0ST05?si=mFpdRFHrTLOzq9zXk_VMEw&pi=rvDN8dtjQAaGG) \- A playlist I made for Twitch streams.
+*   [DMCA Free Twitch Music](https://open.spotify.com/playlist/6jzemSePz0m1n9MWk0ST05?si=mFpdRFHrTLOzq9zXk_VMEw&pi=rvDN8dtjQAaGG) - A playlist I made for Twitch streams.
