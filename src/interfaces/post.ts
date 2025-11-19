@@ -10,6 +10,7 @@ export type Post = {
 	content: string;
 	preview?: boolean;
 	tags?: (
+		| "AboutMe"
 		| "Devlog"
 		| "Projects"
 		| "ArtDesign"

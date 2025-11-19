@@ -3,9 +3,12 @@ import { HeroPost } from "@/app/_components/hero-post";
 import { Intro } from "@/app/_components/intro";
 import { getAllPosts } from "../lib/api";
 import markdownToHtml from "@/lib/markdownToHtml";
+import { Post } from "@/interfaces/post";
 
 export default async function Index() {
-	const allPosts = getAllPosts();
+	const allPosts = getAllPosts().filter((post: Post) =>
+		post.tags?.includes("AboutMe")
+	);
 	const heroPost = allPosts[0];
 	const heroPostContent = await markdownToHtml(heroPost.content || "");
 
