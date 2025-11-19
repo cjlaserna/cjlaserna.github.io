@@ -9,8 +9,6 @@ tags:
 ---
 Hello! My name is Catherine. I'm currently a senior at California State University, Fresno majoring in **Cognitive Science**. I'm also pursuing a **Media Arts** minor.
 
-<p style="text-align: right"><img src="/assets/badges/she_her.png" alt=""> <img src="/assets/badges/Pacific_Time.png" alt=""></p>
-
 **Programming Languages**
 
 ![](/assets/badges/Python.png) ![](/assets/badges/Node.js.png) ![](/assets/badges/Unity.png) ![](/assets/badges/Typescript.png) ![](/assets/badges/JavaScript.png) ![](/assets/badges/HTML5.png) ![](/assets/badges/Git.png) ![](/assets/badges/C++.png) ![](/assets/badges/C_Sharp.png)
