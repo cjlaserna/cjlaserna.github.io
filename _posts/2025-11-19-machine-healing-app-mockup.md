@@ -1,6 +1,6 @@
 ---
 title: Machine Healing App Mockup
-excerpt: AI-powered wellness tracking pitch idea.
+excerpt: An AI-powered wellness tracking pitch idea.
 coverImage: /assets/machinehealing.png
 date: 2025-11-19T12:26:00.000Z
 tags:
