@@ -30,4 +30,4 @@ Most of the GIFs come from the official _Animal Crossing_ movie/anime, and addit
 
 Visit this page on [Github](https://github.com/cjlaserna/nookoffice).
 
-_\*Also view it on_ [_Figma_](https://www.figma.com/file/TIMSI0wSvnRDxgad2BNZv8/Nook-Office?node-id=0%3A1&t=xeY0HWG6hw3KkrcP-1)
+**_\*Also view it on_** [**_Figma_**](https://www.figma.com/file/TIMSI0wSvnRDxgad2BNZv8/Nook-Office?node-id=0%3A1&t=xeY0HWG6hw3KkrcP-1)
