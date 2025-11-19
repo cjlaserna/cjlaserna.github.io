@@ -3,7 +3,7 @@ title: Stardew Valley Case Study
 excerpt: With over 500 hours spent playing this game, read some of my gripes and
   view how I improved the save creation and tutorial scenes in-game.
 coverImage: /assets/stardew.png
-date: 2020-03-16T05:35:00.000Z
+date: 2025-11-19T05:35:00.000Z
 tags:
   - Projects
 ogImage:
@@ -19,7 +19,7 @@ Stardew Valley Title Screen
 
 #### Introduction
 
-By diverting from the usual UI patterns of other common social simulation or casual games, Stardew Valley prioritizes **_immers_**ion and **_community_** interaction, offering a gaming experience that diverges from the norm.
+By diverting from the usual UI patterns of other common social simulation or casual games, Stardew Valley prioritizes \*\*_immers_\*\*ion and **_community_** interaction, offering a gaming experience that diverges from the norm.
 
 #### Analyzing the Current UI — Spoilers Ahead
 
