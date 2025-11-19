@@ -13,7 +13,7 @@ ogImage:
 Hello! My name is **Catherine Laserna**. I'm currently a senior at California State University, Fresno majoring in **Cognitive Science**. I'm also pursuing a **Media Arts** minor!
 
 *   My **technical skills** include:  
-    Python • Node.JS • Unity • Typescript • Javascript • HTML5 [•](https://calendar.google.com/) Git [•](https://calendar.google.com/) C++ • C#.
+    Python • Node.JS • Unity • Typescript • Javascript • HTML5 • Git • C++ • C#.
     
 *   Aside from programming, my some of my **personal hobbies** are:  
     PC Gaming • Anime • Gemstones • Crafts • Old-Web • Pixel-Art.
