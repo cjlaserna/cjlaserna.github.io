@@ -31,7 +31,6 @@ export default function RootLayout({
 						</Container>
 					</main>
 				</div>
-				<div className="noise" />
 			</body>
 		</html>
 	);
