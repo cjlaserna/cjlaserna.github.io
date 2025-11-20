@@ -60,9 +60,7 @@ export default async function Post({
 }
 
 type Params = {
-	params: {
-		slug: string;
-	};
+	slug: string;
 };
 
 export async function generateStaticParams() {
