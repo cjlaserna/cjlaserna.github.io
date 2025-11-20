@@ -1,9 +1,49 @@
 ---
-title: Resources
-excerpt: asd
+title: Catherine's Curated List of Resources
+excerpt: This page covers resources and materials for people in my field!
 coverImage: /assets/ezgif-1b79eded7d7d6f39.gif
-date: 2025-11-18T21:40:00.000Z
+date: 2025-11-19T11:40:00.000Z
 tags:
   - Resources
 ---
-resourcesresourcesresourcesresourcesresourcesresourcesresourcesresourcesresourcesresourcesresourcesresourcesresources
+This page covers resources and materials for people new to programming or design. It encompasses resources I reference frequently that I created myself!
+
+## **Personally Crafted Resources**
+
+### **Programming**
+
+*   [AInnovators](https://drive.google.com/drive/folders/1ArQgH947lTAM3_52_YSV236v1wy5cB46?usp=sharing) - This is an **AI-course** I ran in-person that taught the very basics of **Python**, Programming, and a little bit of **NLP** (Natural Language Processing). It has slides, homework, and resources.
+    
+*   [AI Workshop](https://drive.google.com/drive/folders/1XGhtTffxeFqzBvYBf7Gt9P9bbQ_3hOVs?usp=sharing) - For a shorter lesson, I also have a one-pager focused solely on introducing people to **NLP** and **AI** in general. It comes with a short activity as well.
+    
+*   [Portfolio x React Workshop](https://docs.google.com/presentation/d/1lXSYKexaSLZWUZNT9vynbl_ugNyrTZ26GoiynXSyojM/edit?usp=sharing) - This is another in-person workshop I led that helped students create an online **React** portfolio, the resources can by viewed online.
+    
+*   [Ethical Implications of Artificial Intelligence](https://docs.google.com/presentation/d/1gi0jhwPe2nCs4q4fGINpFvI_lQmLXBsdFtxq4_fDguo/edit?usp=sharing) - A brief lesson on the **ethical implications of AI**.
+    
+*   [OOP Curriculum Notes and Resources](https://drive.google.com/drive/folders/1BxFnCR08vrrLIQx3FtoFhoNciVMlPxwy?usp=sharing) - I taught **OOP** (object-oriented programming) to students at one point and these are the notes and resources I noted down.
+    
+*   [Dice 2023 Attendees Master List and Emails](https://docs.google.com/spreadsheets/d/1SKgnw2SzFV6oJvtwM0dEGeGpmyP9H2dx9v7Nd6Ez5Pw/edit?usp=sharing) - A list of contacts from people who attended Dice 2023 that I created w/ automation. Could be useful for **networking**.
+    
+
+### **Design**
+
+*   [Windows 1.0 Twitch Overlays](https://www.figma.com/design/BFXh1l5nSb6vm4XDBg2rVo/Windows-1.0-Stream-Overlays?m=auto&t=SMli9hPGx7enSszn-6) - Free windows-themed Twitch overlays I made.
+    
+*   [Pink and Blue Twitch Overlays](https://www.figma.com/design/FS458YlYDf6ySmLeJFBYNY/overlay?m=auto&t=SMli9hPGx7enSszn-6) - Free pink and blue, light-themed Twitch overlays.
+    
+*   [Cow Print Pink Twitch Overlays](https://www.figma.com/design/EhDCzvxZXqFRYDUXvs5UBw/Animal-Crossing-Overlays?m=auto&t=SMli9hPGx7enSszn-6) - Free pink cow print-themed Twitch overlays.
+    
+*   [Twitch Overlay Figma Base Set](https://www.figma.com/design/k1NMm67lloZb8TcAagy1j4/Twitch-Streaming-Starter?m=auto&t=SMli9hPGx7enSszn-6) - The bases I used to create Twitch overlays, could be useful to create your own.
+    
+*   [Visual Novel UI Pack](https://cjlaserna.itch.io/love-luster-ui-pack) - Free Pink/Blue themed UI-Pack for visual novels.
+    
+*   [Mini Sci-Fi UI Pack](https://cjlaserna.itch.io/exe) - Free Black/White robot/sci-fi themed UI-Pack for games or sites.
+    
+
+### **Miscellaneous**
+
+*   [College Planning Resources](https://drive.google.com/drive/folders/1tFV0zrjhLUJVjrRfB6a25DyTGoL53Hg9?usp=sharing) - This is a list of resources I made for my friends my senior year of high-school that's available to current students as well.
+    
+*   [DMCA Free Twitch Music](https://open.spotify.com/playlist/6jzemSePz0m1n9MWk0ST05?si=mFpdRFHrTLOzq9zXk_VMEw&pi=rvDN8dtjQAaGG) - A playlist I made for Twitch streams.
+    
+*   [Mentorship and Networking Guide](https://medium.com/@clasernaj/how-to-reach-out-to-potential-mentors-and-foster-that-relationship-fc378be3432d?postPublishedType=initial) - This was a post originally posted for [Fresno State’s Career Development Center](https://careercenter.fresnostate.edu/blog/2024/11/25/how-to-reach-out-to-potential-mentors-and-foster-that-relationship/) while I worked there.
