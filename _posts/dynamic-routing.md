@@ -8,12 +8,8 @@ tags:
   - Devlog
   - AboutMe
 ---
-Hello! My name is Catherine. I'm currently a senior at California State University, Fresno majoring in **Cognitive Science**. I'm also pursuing a **Media Arts** minor.
+Hello! My name is **Catherine**. I'm currently a senior at California State University, Fresno majoring in **Cognitive Science**. I'm also pursuing a **Media Arts** minor.
 
-**Programming Languages**
+**Programming Skills:** Python, Node.JS, Unity, Typescript, Javascript, HTML5, Git, C++, C#
 
-![](/assets/badges/Python.png) ![](/assets/badges/Node.js.png) ![](/assets/badges/Unity.png) ![](/assets/badges/Typescript.png) ![](/assets/badges/JavaScript.png) ![](/assets/badges/HTML5.png) ![](/assets/badges/Git.png) ![](/assets/badges/C++.png) ![](/assets/badges/C_Sharp.png)
-
-**Personal Hobbies**
-
-![](/assets/badges/PC_Gamer.png) ![](/assets/badges/jo4fU6U.png) ![](/assets/badges/qeWy3Ik.png) ![](/assets/badges/WKH2C9p.png) ![](/assets/badges/gVI5OAO.png)
+**Personal Hobbies and Niches:** PC Gaming, Anime, Gemstones, Crafts, Old-Web, Pixel-Art
