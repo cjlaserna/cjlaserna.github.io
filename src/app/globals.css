@@ -59,6 +59,15 @@ body {
 	box-shadow: 0 4px 20px rgb(219, 174, 255, 0.15);
 
 	transition: transform 0.2s;
+	overflow-x: hidden;
+}
+
+.inline-img {
+	width: 100%;
+}
+
+.inline-img img {
+	width: 100%;
 }
 
 .box:hover {
@@ -247,14 +256,52 @@ body {
 	color: #e0aaff;
 }
 
+.project-card p,
+.project-card h3 {
+	text-decoration: none;
+	color: inherit;
+	width: 100%;
+}
+
+.project-grid a {
+	text-decoration: none;
+	color: inherit;
+}
+
 .project-cover {
 	position: relative;
 	width: 100%;
-	height: 100px;
+	height: 200px;
 	border: 2px solid #4f518c;
 	box-shadow: 0 4px 15px rgba(251, 193, 209, 0.3);
 	object-fit: cover;
 	object-position: center;
+}
+
+.project-card .art-title {
+	width: 100%;
+	display: none;
+
+	position: absolute;
+	background-color: #1b1b2f;
+	bottom: 0;
+	text-align: center;
+
+	margin: auto 5px;
+}
+
+.post-crumb {
+	color: #7fdeff;
+	text-decoration: none;
+	font-size: 1rem;
+	margin-bottom: 10px;
+	margin-right: 25px;
+	display: inline-block;
+}
+
+.project-card:hover .art-title {
+	display: block;
+	text-align: center;
 }
 
 ::-webkit-scrollbar {

@@ -34,24 +34,6 @@ export default async function DevLog() {
 							Updated <DateFormatter dateString={post.date} />
 						</span>
 					</div>
-					{post.coverImage && (
-						<div className="banner-box">
-							<Link
-								as={`/posts/${post.slug}`}
-								href="/posts/[slug]"
-								aria-label={post.title}
-							>
-								<Image
-									src={post.coverImage}
-									alt={post.title}
-									className="object-cover banner-img"
-									fill
-									objectFit="cover"
-									objectPosition="center"
-								/>
-							</Link>
-						</div>
-					)}
 				</div>
 			))}
 		</article>

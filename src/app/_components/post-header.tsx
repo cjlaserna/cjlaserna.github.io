@@ -1,7 +1,4 @@
-import Avatar from "./avatar";
-import CoverImage from "./cover-image";
-import DateFormatter from "./date-formatter";
-import { PostTitle } from "@/app/_components/post-title";
+import { PostTitle } from "./post-title";
 
 type Props = {
 	title: string;
@@ -10,7 +7,7 @@ type Props = {
 export function PostHeader({ title }: Props) {
 	return (
 		<>
-			<h2>{title}</h2>
+			<PostTitle>{title}</PostTitle>
 		</>
 	);
 }

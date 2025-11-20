@@ -7,7 +7,7 @@ type Props = {
 export function PostBody({ content }: Props) {
 	return (
 		<div
-			className={markdownStyles["markdown"]}
+			className={markdownStyles["markdown"] + " post-body"}
 			dangerouslySetInnerHTML={{ __html: content }}
 		/>
 	);

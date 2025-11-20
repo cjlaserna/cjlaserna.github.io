@@ -13,7 +13,7 @@ export default async function Index() {
 			<div className="project-grid">
 				{allPosts.map((post) => (
 					<>
-						<Link href={`/posts/${post.slug}`}>
+						<Link href={`/posts/${post.slug}?from=/projects`} key={post.slug}>
 							<div key={post.slug} className="project-card box">
 								<h3>{post.title}</h3>
 								<p>{post.excerpt}</p>

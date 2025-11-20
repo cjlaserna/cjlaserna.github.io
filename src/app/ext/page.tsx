@@ -16,7 +16,7 @@ export default async function Index() {
 			coverImage={heroPost.coverImage}
 			date={heroPost.date}
 			content={heroPostContent}
-			slug={heroPost.slug}
+			slug={heroPost.slug + "?from=/ext"}
 		/>
 	);
 }

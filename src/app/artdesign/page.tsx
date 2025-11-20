@@ -14,11 +14,20 @@ export default async function Index() {
 			<div className="project-grid">
 				{allPosts.map((post) => (
 					<>
-						<Link href={`/posts/${post.slug}`}>
-							<div key={post.slug} className="project-card box">
-								<h3>{post.title}</h3>
+						<Link href={`/posts/${post.slug}?from=/artdesign`} key={post.slug}>
+							<div className="project-card box">
 								<div className="project-cover">
-									<Image src={post.coverImage} alt={post.title} fill />
+									<Image
+										src={post.coverImage}
+										alt={post.title}
+										fill
+										objectFit="cover"
+										objectPosition="center"
+									/>
+								</div>
+								<div className="art-title">
+									<h3>{post.title}</h3>
+									<p> {post.excerpt} </p>
 								</div>
 							</div>
 						</Link>
