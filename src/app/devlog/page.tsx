@@ -12,7 +12,7 @@ export default async function DevLog() {
 	const devlogPosts = getAllPosts()
 		.filter((post: Post) => post.tags?.includes("Devlog"))
 		.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
-		.slice(1, 6);
+		.slice(0, 5);
 
 	// Convert all post contents to HTML
 	const postsWithHtml = await Promise.all(
