@@ -5,7 +5,6 @@ excerpt: "I'm an incredibly eager learner and collaborator, passionate about all
 coverImage: /assets/ezgif-1b79eded7d7d6f39.gif
 date: 2025-11-19T18:40:00.000Z
 tags:
-  - Devlog
   - AboutMe
 ogImage:
   url: /assets/ezgif-1b79eded7d7d6f39.gif
