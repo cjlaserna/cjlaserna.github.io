@@ -4,6 +4,8 @@ date: 2026-01-12T15:00:00.000Z
 tags:
   - Devlog
 ---
+# [Wishlist this Game on Steam](https://store.steampowered.com/app/3750820/Plush_Shop_Simulator/?beta=0)
+
 ## Improvements & Additions
 
 ### 🔹 Gameplay & QoL
